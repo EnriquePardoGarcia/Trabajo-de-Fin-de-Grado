@@ -1,0 +1,46 @@
+{
+  "classifier": "KNN",
+  "n_neighbors": 5,
+  "accuracy": 0.6073806353433517,
+  "auc": 0.6275885612420528,
+  "confusion_matrix": [
+    [
+      1148,
+      1204
+    ],
+    [
+      860,
+      2045
+    ]
+  ],
+  "classification_report": {
+    "mitotic_figure": {
+      "precision": 0.5717131474103586,
+      "recall": 0.4880952380952381,
+      "f1-score": 0.5266055045871559,
+      "support": 2352.0
+    },
+    "not_mitotic_figure": {
+      "precision": 0.6294244382887042,
+      "recall": 0.7039586919104991,
+      "f1-score": 0.6646083847903802,
+      "support": 2905.0
+    },
+    "accuracy": 0.6073806353433517,
+    "macro avg": {
+      "precision": 0.6005687928495314,
+      "recall": 0.5960269650028686,
+      "f1-score": 0.5956069446887681,
+      "support": 5257.0
+    },
+    "weighted avg": {
+      "precision": 0.6036042069503232,
+      "recall": 0.6073806353433517,
+      "f1-score": 0.6028654184145036,
+      "support": 5257.0
+    }
+  },
+  "config": "ssim_aug",
+  "epoch": 1997,
+  "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/ssim/dim_128/best/best.pt"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_128/best/best.pt",
+    "label": "best",
+    "epoch": 1531,
+    "jump_meta": {},
+    "code_dim": 128,
+    "mse_mean": 0.07755552272143865,
+    "mae_mean": 0.1989856951104522,
+    "ssim_mean": 0.6432225743876634,
+    "l0_mean": 112.60757085790375,
+    "l0_std": 2.5223150427309893,
+    "frac_zeros": 0.12004162235693498,
+    "fisher_max": 0.02582082524895668,
+    "fisher_mean": 0.0022405777126550674,
+    "pca_var_12": 0.27195173501968384,
+    "rec_bias_mse": -0.001159093716750409,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 0.07691501154640347,
+        "mae_mean": 0.19792329970759903,
+        "ssim_mean": 0.6452496454601182,
+        "l0_mean": 112.75127551020408
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 0.07807410526315388,
+        "mae_mean": 0.1998458513884249,
+        "ssim_mean": 0.6415813794952662,
+        "l0_mean": 112.49122203098106
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_128/last/last.pt",
+    "label": "last",
+    "epoch": 30000,
+    "jump_meta": {},
+    "code_dim": 128,
+    "mse_mean": 0.10772424794142524,
+    "mae_mean": 0.23318117561053703,
+    "ssim_mean": 0.574306234516117,
+    "l0_mean": 68.12497622217995,
+    "l0_std": 4.152341783941365,
+    "frac_zeros": 0.46775510094382544,
+    "fisher_max": 0.03244450315833092,
+    "fisher_mean": 0.002380151767283678,
+    "pca_var_12": 0.25022223591804504,
+    "rec_bias_mse": -0.003289348336722342,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 0.10590656543844285,
+        "mae_mean": 0.230913468896329,
+        "ssim_mean": 0.5773766823746518,
+        "l0_mean": 68.24744897959184
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 0.10919591377516519,
+        "mae_mean": 0.2350171983960163,
+        "ssim_mean": 0.5718202815511345,
+        "l0_mean": 68.02581755593803
+      }
+    }
+  }
+]

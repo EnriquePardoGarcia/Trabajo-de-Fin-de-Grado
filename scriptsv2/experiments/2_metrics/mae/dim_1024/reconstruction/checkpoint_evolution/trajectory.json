@@ -1,0 +1,444 @@
+[
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_down_2/checkpoint.pt",
+    "label": "jump_down_2",
+    "epoch": 1,
+    "jump_meta": {
+      "epoch_before": 2,
+      "epoch_after": 3,
+      "rec_before": 0.9968055236769832,
+      "rec_after": 0.9720557403890976,
+      "active_before": 70.92765935262044,
+      "active_after": 36.61407915751139,
+      "rec_change_rel": -0.0248290992550949,
+      "act_change_rel": -0.48378277964128175,
+      "direction": "down",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "down",
+      "dirname": "jump_down_2"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2789857002442524,
+    "mae_mean": 0.9416896824671648,
+    "ssim_mean": 0.006758254344699794,
+    "l0_mean": 25.113562868556212,
+    "l0_std": 53.68672683439085,
+    "frac_zeros": 0.9751867326823148,
+    "fisher_max": 0.01600809022784233,
+    "fisher_mean": 0.0011188709177076817,
+    "pca_var_12": 0.6893860101699829,
+    "rec_bias_mse": 0.034771563210012735,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.298200345693194,
+        "mae_mean": 0.9459616802379388,
+        "ssim_mean": 0.006842635797833047,
+        "l0_mean": 23.65391156462585
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2634287824831814,
+        "mae_mean": 0.9382309083684176,
+        "ssim_mean": 0.006689935866982268,
+        "l0_mean": 26.29535283993115
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/best/best.pt",
+    "label": "best",
+    "epoch": 1563,
+    "jump_meta": {},
+    "code_dim": 1024,
+    "mse_mean": 0.12923461579183917,
+    "mae_mean": 0.26213543269260997,
+    "ssim_mean": 0.5080104402904391,
+    "l0_mean": 44.74510176906981,
+    "l0_std": 0.9923079059102212,
+    "frac_zeros": 0.9563060240312056,
+    "fisher_max": 0.025137852877378464,
+    "fisher_mean": 0.00012756026990246028,
+    "pca_var_12": 0.3862404525279999,
+    "rec_bias_mse": -0.00544821232519016,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 0.12622395252292584,
+        "mae_mean": 0.25846576035263485,
+        "ssim_mean": 0.5130687190637905,
+        "l0_mean": 44.791666666666664
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 0.131672164848116,
+        "mae_mean": 0.26510654090039704,
+        "ssim_mean": 0.5039150627775569,
+        "l0_mean": 44.707401032702236
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_up_1690/checkpoint.pt",
+    "label": "jump_up_1690",
+    "epoch": 1689,
+    "jump_meta": {
+      "epoch_before": 1690,
+      "epoch_after": 1691,
+      "rec_before": 1.0010080298409663,
+      "rec_after": 1.002634802316541,
+      "active_before": 4.0690104166666664e-05,
+      "active_after": 0.0,
+      "rec_change_rel": 0.0016251342915507706,
+      "act_change_rel": -0.9999975424060398,
+      "direction": "up",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "up",
+      "dirname": "jump_up_1690"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_up_2013/checkpoint.pt",
+    "label": "jump_up_2013",
+    "epoch": 2012,
+    "jump_meta": {
+      "epoch_before": 2013,
+      "epoch_after": 2014,
+      "rec_before": 1.0009328538547586,
+      "rec_after": 1.0028148361662552,
+      "active_before": 7.176175131462514e-05,
+      "active_after": 0.0,
+      "rec_change_rel": 0.001880228333060266,
+      "act_change_rel": -0.9999986065019483,
+      "direction": "up",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "up",
+      "dirname": "jump_up_2013"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_down_2383/checkpoint.pt",
+    "label": "jump_down_2383",
+    "epoch": 2382,
+    "jump_meta": {
+      "epoch_before": 2383,
+      "epoch_after": 2384,
+      "rec_before": 1.004839102644469,
+      "rec_after": 1.0043560007430385,
+      "active_before": 4.0690104166666664e-05,
+      "active_after": 0.0,
+      "rec_change_rel": -0.0004807753799697315,
+      "act_change_rel": -0.9999975424060398,
+      "direction": "down",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "down",
+      "dirname": "jump_down_2383"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_up_2601/checkpoint.pt",
+    "label": "jump_up_2601",
+    "epoch": 2600,
+    "jump_meta": {
+      "epoch_before": 2601,
+      "epoch_after": 2602,
+      "rec_before": 1.0066179764628485,
+      "rec_after": 1.0096433987330198,
+      "active_before": 0.0017873949836939573,
+      "active_after": 0.002637454580205182,
+      "rec_change_rel": 0.00300553173161262,
+      "act_change_rel": 0.47558573046672553,
+      "direction": "up",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "up",
+      "dirname": "jump_up_2601"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2769475222903783,
+    "mae_mean": 0.9416564566589749,
+    "ssim_mean": 0.006622882385637922,
+    "l0_mean": 0.00019022256039566293,
+    "l0_std": 0.013790807654853993,
+    "frac_zeros": 0.9999998266046698,
+    "fisher_max": 0.00034436085843481123,
+    "fisher_mean": 3.3628990081524535e-07,
+    "pca_var_12": 0.9999960660934448,
+    "rec_bias_mse": 0.03602772540519772,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2608285932142846,
+        "mae_mean": 0.9380965576114425,
+        "ssim_mean": 0.006595761065488351,
+        "l0_mean": 0.00034423407917383823
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_up_16067/checkpoint.pt",
+    "label": "jump_up_16067",
+    "epoch": 16066,
+    "jump_meta": {
+      "epoch_before": 16067,
+      "epoch_after": 16068,
+      "rec_before": 1.002136673332763,
+      "rec_after": 1.0040907878339236,
+      "active_before": 0.0001435235026292503,
+      "active_after": 0.0,
+      "rec_change_rel": 0.0019499480988624581,
+      "act_change_rel": -0.9999993032504886,
+      "direction": "up",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "up",
+      "dirname": "jump_up_16067"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_down_24153/checkpoint.pt",
+    "label": "jump_down_24153",
+    "epoch": 24152,
+    "jump_meta": {
+      "epoch_before": 24153,
+      "epoch_after": 24154,
+      "rec_before": 1.004457664272064,
+      "rec_after": 1.0040844895427115,
+      "active_before": 7.176175131462514e-05,
+      "active_after": 0.0,
+      "rec_change_rel": -0.00037151862401865277,
+      "act_change_rel": -0.9999986065019483,
+      "direction": "down",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "down",
+      "dirname": "jump_down_24153"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/jumps/jump_down_27659/checkpoint.pt",
+    "label": "jump_down_27659",
+    "epoch": 27658,
+    "jump_meta": {
+      "epoch_before": 27659,
+      "epoch_after": 27660,
+      "rec_before": 1.003114104475012,
+      "rec_after": 1.002109264685745,
+      "active_before": 7.176175131462514e-05,
+      "active_after": 0.0,
+      "rec_change_rel": -0.0010017203274125422,
+      "act_change_rel": -0.9999986065019483,
+      "direction": "down",
+      "affects_rec": false,
+      "affects_sparse": true,
+      "suffix": "down",
+      "dirname": "jump_down_27659"
+    },
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  },
+  {
+    "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/last/last.pt",
+    "label": "last",
+    "epoch": 30000,
+    "jump_meta": {},
+    "code_dim": 1024,
+    "mse_mean": 1.2768332451406215,
+    "mae_mean": 0.9416213682878374,
+    "ssim_mean": 0.006627852032070036,
+    "l0_mean": 0.0,
+    "l0_std": 0.0,
+    "frac_zeros": 1.0,
+    "fisher_max": 0.0,
+    "fisher_mean": 0.0,
+    "pca_var_12": NaN,
+    "rec_bias_mse": 0.03623452574126418,
+    "per_class": {
+      "mitotic_figure": {
+        "n": 2352,
+        "mse_mean": 1.2968563186194824,
+        "mae_mean": 0.946053355780183,
+        "ssim_mean": 0.006656380444751232,
+        "l0_mean": 0.0
+      },
+      "not_mitotic_figure": {
+        "n": 2905,
+        "mse_mean": 1.2606217928782182,
+        "mae_mean": 0.9380330603422273,
+        "ssim_mean": 0.006604754329272731,
+        "l0_mean": 0.0
+      }
+    }
+  }
+]

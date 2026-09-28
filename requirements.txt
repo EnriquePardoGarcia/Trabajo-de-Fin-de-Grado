@@ -1,0 +1,11 @@
+# Core Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+
+# Procesamiento de imágenes y utilidades
+Pillow>=9.0.0
+pathlib
+
+# Visualización y Métricas
+matplotlib>=3.5.0

@@ -1,0 +1,171 @@
+{
+  "rec_mode": "mse",
+  "code_dim": 1024,
+  "ckpt": "last",
+  "n_atoms": 1024,
+  "n_samples": 5257,
+  "top_k": 16,
+  "rank_norm_definition": "argsort(argsort(v)) / (n_atoms - 1); 1.0 = mejor de su m\u00e9trica",
+  "top_by_fisher": [
+    {
+      "position": 1,
+      "atom": 1023,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0,
+      "rank_fisher": 1.0,
+      "rank_anova": 0.34310850439882695,
+      "rank_mi": 0.34408602150537637
+    },
+    {
+      "position": 2,
+      "atom": 1022,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0,
+      "rank_fisher": 0.9990224828934506,
+      "rank_anova": 0.3421309872922776,
+      "rank_mi": 0.34506353861192574
+    },
+    {
+      "position": 3,
+      "atom": 1021,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005643511106367294,
+      "rank_fisher": 0.9980449657869013,
+      "rank_anova": 0.3411534701857282,
+      "rank_mi": 0.7888563049853372
+    },
+    {
+      "position": 4,
+      "atom": 1020,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0,
+      "rank_fisher": 0.9970674486803519,
+      "rank_anova": 0.34017595307917886,
+      "rank_mi": 0.1739980449657869
+    },
+    {
+      "position": 5,
+      "atom": 1019,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0,
+      "rank_fisher": 0.9960899315738025,
+      "rank_anova": 0.3391984359726295,
+      "rank_mi": 0.17302052785923755
+    },
+    {
+      "position": 6,
+      "atom": 1018,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0,
+      "rank_fisher": 0.9951124144672532,
+      "rank_anova": 0.33822091886608013,
+      "rank_mi": 0.17204301075268819
+    },
+    {
+      "position": 7,
+      "atom": 1017,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001184381750061192,
+      "rank_fisher": 0.9941348973607038,
+      "rank_anova": 0.33724340175953077,
+      "rank_mi": 0.5698924731182796
+    },
+    {
+      "position": 8,
+      "atom": 1016,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011017671256261963,
+      "rank_fisher": 0.9931573802541545,
+      "rank_anova": 0.3362658846529814,
+      "rank_mi": 0.9433040078201369
+    },
+    {
+      "position": 9,
+      "atom": 1015,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0,
+      "rank_fisher": 0.9921798631476051,
+      "rank_anova": 0.33528836754643204,
+      "rank_mi": 0.16226783968719452
+    },
+    {
+      "position": 10,
+      "atom": 1014,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010837066541498963,
+      "rank_fisher": 0.9912023460410557,
+      "rank_anova": 0.3343108504398827,
+      "rank_mi": 0.9403714565004888
+    },
+    {
+      "position": 11,
+      "atom": 1013,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008171073639993143,
+      "rank_fisher": 0.9902248289345064,
+      "rank_anova": 0.3333333333333333,
+      "rank_mi": 0.5513196480938416
+    },
+    {
+      "position": 12,
+      "atom": 1012,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008562850983557801,
+      "rank_fisher": 0.989247311827957,
+      "rank_anova": 0.33235581622678395,
+      "rank_mi": 0.5542521994134897
+    },
+    {
+      "position": 13,
+      "atom": 1011,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007529075536229168,
+      "rank_fisher": 0.9882697947214076,
+      "rank_anova": 0.3313782991202346,
+      "rank_mi": 0.8690127077223851
+    },
+    {
+      "position": 14,
+      "atom": 1010,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001607838013831131,
+      "rank_fisher": 0.9872922776148583,
+      "rank_anova": 0.3304007820136852,
+      "rank_mi": 0.592375366568915
+    },
+    {
+      "position": 15,
+      "atom": 1009,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022709671196794456,
+      "rank_fisher": 0.9863147605083089,
+      "rank_anova": 0.32942326490713586,
+      "rank_mi": 0.635386119257087
+    },
+    {
+      "position": 16,
+      "atom": 1008,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0030795929349380913,
+      "rank_fisher": 0.9853372434017595,
+      "rank_anova": 0.3128054740957967,
+      "rank_mi": 0.6715542521994134
+    }
+  ]
+}

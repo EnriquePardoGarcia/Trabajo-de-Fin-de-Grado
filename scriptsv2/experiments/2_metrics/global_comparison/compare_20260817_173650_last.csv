@@ -1,0 +1,13 @@
+run_name,run_dir,config,rec_mode,epoch,lmbd_l1,lmbd_rec,n_samples,mae_gauss,mse_gauss,psnr_db,ssim_gauss
+mse/dim_128,/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mse/dim_128/last,mse_aug,mse,30000,1.0,1.0,5257,0.23352583700960333,0.10202781483530998,18.33827639781434,0.5655225298621438
+mae/dim_128,/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_128/last,mae_aug,mae,30000,1.0,1.0,5257,0.2290628132495013,0.10453029451045123,15.457901025958622,0.5791867131536658
+ssim/dim_128,/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/ssim/dim_128/last,ssim_aug,ssim,30000,1.0,1.0,5257,0.2529028152877634,0.13287966698408127,11.928444816399905,0.5775569460608743
+
+# Tabla: LAST.PT
+# Diseño evaluacion: Opcion B — mascara gaussiana en todas las metricas
+# SSIM gaussiano: implementacion manual con mascara centrada (no ignite)
+# Evaluacion sobre interseccion de test sets: 5257 muestras
+# shared_test_json: /home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/2_metrics/global_comparison/shared_test_20260817_173650.json
+# Runs: mse/dim_128, mae/dim_128, ssim/dim_128
+# NOTA: cada modelo fue entrenado con su propio split 80/20 aleatorio.
+#       Se usa la interseccion de los test sets para comparacion justa.

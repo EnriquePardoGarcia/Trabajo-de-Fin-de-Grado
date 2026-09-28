@@ -1,0 +1,46 @@
+{
+  "classifier": "KNN",
+  "n_neighbors": 5,
+  "accuracy": 0.5868365988206201,
+  "auc": 0.5881947615535026,
+  "confusion_matrix": [
+    [
+      930,
+      1422
+    ],
+    [
+      750,
+      2155
+    ]
+  ],
+  "classification_report": {
+    "mitotic_figure": {
+      "precision": 0.5535714285714286,
+      "recall": 0.39540816326530615,
+      "f1-score": 0.46130952380952384,
+      "support": 2352.0
+    },
+    "not_mitotic_figure": {
+      "precision": 0.6024601621470506,
+      "recall": 0.7418244406196214,
+      "f1-score": 0.6649182351126196,
+      "support": 2905.0
+    },
+    "accuracy": 0.5868365988206201,
+    "macro avg": {
+      "precision": 0.5780157953592395,
+      "recall": 0.5686163019424637,
+      "f1-score": 0.5631138794610717,
+      "support": 5257.0
+    },
+    "weighted avg": {
+      "precision": 0.5805871734900478,
+      "recall": 0.5868365988206201,
+      "f1-score": 0.5738229927719535,
+      "support": 5257.0
+    }
+  },
+  "config": "ssim_aug",
+  "epoch": 30000,
+  "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/ssim/dim_1024/last/last.pt"
+}

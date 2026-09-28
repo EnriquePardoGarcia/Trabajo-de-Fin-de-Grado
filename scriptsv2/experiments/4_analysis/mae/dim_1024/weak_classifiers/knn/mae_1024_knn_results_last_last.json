@@ -1,0 +1,46 @@
+{
+  "classifier": "KNN",
+  "n_neighbors": 5,
+  "accuracy": 0.4474034620505992,
+  "auc": 0.5,
+  "confusion_matrix": [
+    [
+      2352,
+      0
+    ],
+    [
+      2905,
+      0
+    ]
+  ],
+  "classification_report": {
+    "mitotic_figure": {
+      "precision": 0.4474034620505992,
+      "recall": 1.0,
+      "f1-score": 0.6182152713891444,
+      "support": 2352.0
+    },
+    "not_mitotic_figure": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2905.0
+    },
+    "accuracy": 0.4474034620505992,
+    "macro avg": {
+      "precision": 0.2237017310252996,
+      "recall": 0.5,
+      "f1-score": 0.3091076356945722,
+      "support": 5257.0
+    },
+    "weighted avg": {
+      "precision": 0.200169857854862,
+      "recall": 0.4474034620505992,
+      "f1-score": 0.276591652712054,
+      "support": 5257.0
+    }
+  },
+  "config": "mae_aug",
+  "epoch": 30000,
+  "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/last/last.pt"
+}

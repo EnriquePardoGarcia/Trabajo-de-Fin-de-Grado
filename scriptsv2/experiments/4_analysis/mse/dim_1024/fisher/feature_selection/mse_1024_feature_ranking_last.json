@@ -1,0 +1,6446 @@
+{
+  "n_atoms": 1024,
+  "n_samples": 5257,
+  "n_mitotic": 2352,
+  "n_nonmitotic": 2905,
+  "top_by_fisher": [
+    {
+      "atom": 1023,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1022,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1021,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005643511106367294
+    },
+    {
+      "atom": 1020,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1019,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1018,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1017,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001184381750061192
+    },
+    {
+      "atom": 1016,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011017671256261963
+    },
+    {
+      "atom": 1015,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1014,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010837066541498963
+    },
+    {
+      "atom": 1013,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008171073639993143
+    },
+    {
+      "atom": 1012,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008562850983557801
+    },
+    {
+      "atom": 1011,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007529075536229168
+    },
+    {
+      "atom": 1010,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001607838013831131
+    },
+    {
+      "atom": 1009,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022709671196794456
+    },
+    {
+      "atom": 1008,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0030795929349380913
+    }
+  ],
+  "top_by_f_anova": [
+    {
+      "atom": 351,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 350,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 349,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019062211272842244
+    },
+    {
+      "atom": 348,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 347,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 346,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003963188701267439
+    },
+    {
+      "atom": 345,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00048005915031201774
+    },
+    {
+      "atom": 344,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002632145547166065
+    },
+    {
+      "atom": 343,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 342,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00430891168095715
+    },
+    {
+      "atom": 341,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0024779382299306985
+    },
+    {
+      "atom": 340,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 339,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00024186339113141386
+    },
+    {
+      "atom": 338,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 337,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 0,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00068652234327371
+    }
+  ],
+  "top_by_mutual_info": [
+    {
+      "atom": 923,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.024048348696077415
+    },
+    {
+      "atom": 746,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.02155773714985232
+    },
+    {
+      "atom": 270,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01920303953038971
+    },
+    {
+      "atom": 755,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01838982057516514
+    },
+    {
+      "atom": 473,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.018375071748015337
+    },
+    {
+      "atom": 334,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.017662116446196308
+    },
+    {
+      "atom": 1,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.017633404062585845
+    },
+    {
+      "atom": 680,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.017496876505255443
+    },
+    {
+      "atom": 606,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016858236776626123
+    },
+    {
+      "atom": 38,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016779588260764866
+    },
+    {
+      "atom": 192,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016754465223285164
+    },
+    {
+      "atom": 398,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016749609112652664
+    },
+    {
+      "atom": 433,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016361140756596226
+    },
+    {
+      "atom": 968,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01622662854001855
+    },
+    {
+      "atom": 731,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016118807387504708
+    },
+    {
+      "atom": 622,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016059161012802026
+    }
+  ],
+  "all_atoms": [
+    {
+      "atom": 0,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00068652234327371
+    },
+    {
+      "atom": 1,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.017633404062585845
+    },
+    {
+      "atom": 2,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 3,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0021956059758314606
+    },
+    {
+      "atom": 4,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 5,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 6,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00042375971341646057
+    },
+    {
+      "atom": 7,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 8,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 9,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 10,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005389386381530414
+    },
+    {
+      "atom": 11,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 12,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005217619585600408
+    },
+    {
+      "atom": 13,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 14,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 15,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 16,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 17,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 18,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 19,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012462093917205985
+    },
+    {
+      "atom": 20,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004673626808058939
+    },
+    {
+      "atom": 21,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019214432916858648
+    },
+    {
+      "atom": 22,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0011493720801680762
+    },
+    {
+      "atom": 23,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 24,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 25,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004056474270549337
+    },
+    {
+      "atom": 26,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 27,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 28,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 29,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 30,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006672618951602649
+    },
+    {
+      "atom": 31,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006188901880022968
+    },
+    {
+      "atom": 32,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006310937733769562
+    },
+    {
+      "atom": 33,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 34,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 35,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 36,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 37,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006051730184615245
+    },
+    {
+      "atom": 38,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016779588260764866
+    },
+    {
+      "atom": 39,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 40,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00011757087006536437
+    },
+    {
+      "atom": 41,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006880873999727699
+    },
+    {
+      "atom": 42,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 43,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 44,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006073162576279545
+    },
+    {
+      "atom": 45,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 46,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 47,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0020863060455569293
+    },
+    {
+      "atom": 48,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0013216536608253726
+    },
+    {
+      "atom": 49,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 50,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 51,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 52,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006537095519544289
+    },
+    {
+      "atom": 53,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 54,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 55,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 56,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 57,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 58,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 59,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 60,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 61,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 62,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0018413377270751763
+    },
+    {
+      "atom": 63,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 64,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 65,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00107020618755449
+    },
+    {
+      "atom": 66,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017732758694104511
+    },
+    {
+      "atom": 67,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01464407150136493
+    },
+    {
+      "atom": 68,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00662885825218229
+    },
+    {
+      "atom": 69,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0007073252815632536
+    },
+    {
+      "atom": 70,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003671972388901601
+    },
+    {
+      "atom": 71,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 72,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003926840377400431
+    },
+    {
+      "atom": 73,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 74,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 75,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007459223705508444
+    },
+    {
+      "atom": 76,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00036467684938523703
+    },
+    {
+      "atom": 77,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 78,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 79,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0021445416926746397
+    },
+    {
+      "atom": 80,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 81,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 82,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 83,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 84,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 85,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 86,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 87,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004521908692760368
+    },
+    {
+      "atom": 88,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009087761312269516
+    },
+    {
+      "atom": 89,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 90,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00522453861715344
+    },
+    {
+      "atom": 91,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013859624928341141
+    },
+    {
+      "atom": 92,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00013406610858823775
+    },
+    {
+      "atom": 93,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006281650127472949
+    },
+    {
+      "atom": 94,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0035730429469791325
+    },
+    {
+      "atom": 95,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008303585433740546
+    },
+    {
+      "atom": 96,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 97,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004595325370888137
+    },
+    {
+      "atom": 98,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 99,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 100,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00535707337498037
+    },
+    {
+      "atom": 101,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005522656008652316
+    },
+    {
+      "atom": 102,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0078021934389040926
+    },
+    {
+      "atom": 103,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 104,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 105,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0075235027370508245
+    },
+    {
+      "atom": 106,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005770879994930311
+    },
+    {
+      "atom": 107,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 108,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003072760236790373
+    },
+    {
+      "atom": 109,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 110,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 111,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017501785057041364
+    },
+    {
+      "atom": 112,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 113,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 114,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 115,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008783360804427431
+    },
+    {
+      "atom": 116,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01245193537391387
+    },
+    {
+      "atom": 117,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011629314886226538
+    },
+    {
+      "atom": 118,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 119,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 120,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 121,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010075362078314054
+    },
+    {
+      "atom": 122,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009358521993626745
+    },
+    {
+      "atom": 123,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031956508539181527
+    },
+    {
+      "atom": 124,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003364968934708834
+    },
+    {
+      "atom": 125,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00400787118616952
+    },
+    {
+      "atom": 126,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 127,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008723367046734598
+    },
+    {
+      "atom": 128,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007144003059953663
+    },
+    {
+      "atom": 129,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 130,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 131,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 132,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004738808606283174
+    },
+    {
+      "atom": 133,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 134,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005625364711017156
+    },
+    {
+      "atom": 135,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 136,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0020452246846964783
+    },
+    {
+      "atom": 137,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 138,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002008668151703308
+    },
+    {
+      "atom": 139,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 140,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 141,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0023017632260160514
+    },
+    {
+      "atom": 142,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031256874246052835
+    },
+    {
+      "atom": 143,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 144,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 145,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 146,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 147,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.000467654851947108
+    },
+    {
+      "atom": 148,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 149,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 150,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0107941998913903
+    },
+    {
+      "atom": 151,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 152,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 153,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 154,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 155,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 156,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006739695120086431
+    },
+    {
+      "atom": 157,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 158,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006940743932534188
+    },
+    {
+      "atom": 159,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0033910167282764636
+    },
+    {
+      "atom": 160,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012185382013498058
+    },
+    {
+      "atom": 161,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 162,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 163,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 164,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 165,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006516339980707331
+    },
+    {
+      "atom": 166,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001786064946588839
+    },
+    {
+      "atom": 167,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 168,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 169,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0026642651436303844
+    },
+    {
+      "atom": 170,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 171,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 172,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00142123756771384
+    },
+    {
+      "atom": 173,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 174,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 175,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031015738412003557
+    },
+    {
+      "atom": 176,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 177,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006790371078603918
+    },
+    {
+      "atom": 178,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 179,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0020698205015043936
+    },
+    {
+      "atom": 180,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 181,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 182,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 183,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 184,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00811802788586502
+    },
+    {
+      "atom": 185,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 186,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 187,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003160795855683851
+    },
+    {
+      "atom": 188,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00019173978941555703
+    },
+    {
+      "atom": 189,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005266309226996002
+    },
+    {
+      "atom": 190,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 191,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 192,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016754465223285164
+    },
+    {
+      "atom": 193,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 194,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 195,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010169965057169161
+    },
+    {
+      "atom": 196,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 197,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 198,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 199,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003441253103380504
+    },
+    {
+      "atom": 200,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 201,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00691477968158849
+    },
+    {
+      "atom": 202,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 203,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006687565122890149
+    },
+    {
+      "atom": 204,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009678551222092047
+    },
+    {
+      "atom": 205,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 206,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 207,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0018127901869977592
+    },
+    {
+      "atom": 208,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 209,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 210,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0021808129897518125
+    },
+    {
+      "atom": 211,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004121513382542519
+    },
+    {
+      "atom": 212,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00021935557878594025
+    },
+    {
+      "atom": 213,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 214,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 215,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 216,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.000841036553150154
+    },
+    {
+      "atom": 217,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003512280792236089
+    },
+    {
+      "atom": 218,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008123398894272604
+    },
+    {
+      "atom": 219,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 220,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.000395954802275833
+    },
+    {
+      "atom": 221,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005947980861379598
+    },
+    {
+      "atom": 222,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013011044929353899
+    },
+    {
+      "atom": 223,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 224,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031468130337819478
+    },
+    {
+      "atom": 225,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 226,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 227,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009803834012053203
+    },
+    {
+      "atom": 228,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 229,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008969642396952526
+    },
+    {
+      "atom": 230,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 231,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 232,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010782657725890932
+    },
+    {
+      "atom": 233,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 234,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 235,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0036384083842311288
+    },
+    {
+      "atom": 236,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017118162320015617
+    },
+    {
+      "atom": 237,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 238,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 239,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00030170887671321367
+    },
+    {
+      "atom": 240,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 241,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0004200871101034398
+    },
+    {
+      "atom": 242,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006964560886503657
+    },
+    {
+      "atom": 243,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0013073763718649545
+    },
+    {
+      "atom": 244,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 245,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009035207597980044
+    },
+    {
+      "atom": 246,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 247,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 248,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 249,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00048368668435139206
+    },
+    {
+      "atom": 250,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 251,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 252,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 253,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00067005329959402
+    },
+    {
+      "atom": 254,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00436639475399514
+    },
+    {
+      "atom": 255,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008185130543437724
+    },
+    {
+      "atom": 256,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 257,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 258,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0037589972440965624
+    },
+    {
+      "atom": 259,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 260,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 2.1339313960089257e-05
+    },
+    {
+      "atom": 261,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 262,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0013283748488299718
+    },
+    {
+      "atom": 263,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00880648612554591
+    },
+    {
+      "atom": 264,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 265,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 266,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002423336683621047
+    },
+    {
+      "atom": 267,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0010971878754548747
+    },
+    {
+      "atom": 268,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005203765354445666
+    },
+    {
+      "atom": 269,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005738848817464781
+    },
+    {
+      "atom": 270,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01920303953038971
+    },
+    {
+      "atom": 271,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017547143514151653
+    },
+    {
+      "atom": 272,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 273,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 274,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019251624683296331
+    },
+    {
+      "atom": 275,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01354022065787297
+    },
+    {
+      "atom": 276,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004600858959945109
+    },
+    {
+      "atom": 277,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001527659548911764
+    },
+    {
+      "atom": 278,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0006803049726737953
+    },
+    {
+      "atom": 279,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009232608584535118
+    },
+    {
+      "atom": 280,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 281,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003603166400880653
+    },
+    {
+      "atom": 282,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 283,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0025092020530488313
+    },
+    {
+      "atom": 284,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005622980835664482
+    },
+    {
+      "atom": 285,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001861553970169183
+    },
+    {
+      "atom": 286,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 287,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 288,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 289,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 290,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012241049696504636
+    },
+    {
+      "atom": 291,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002581386217351822
+    },
+    {
+      "atom": 292,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 293,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005401468814059562
+    },
+    {
+      "atom": 294,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 295,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 296,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 297,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 298,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 299,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005163431833158594
+    },
+    {
+      "atom": 300,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 301,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 302,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0015331932592315134
+    },
+    {
+      "atom": 303,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012157765492435857
+    },
+    {
+      "atom": 304,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00014858143059393036
+    },
+    {
+      "atom": 305,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 306,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005825161281943769
+    },
+    {
+      "atom": 307,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003642390715112409
+    },
+    {
+      "atom": 308,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 309,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008924170756541283
+    },
+    {
+      "atom": 310,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 311,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006942012594722824
+    },
+    {
+      "atom": 312,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 313,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005553916556415572
+    },
+    {
+      "atom": 314,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 315,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004132923785334475
+    },
+    {
+      "atom": 316,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 317,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0071444747642483986
+    },
+    {
+      "atom": 318,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0004853307876679924
+    },
+    {
+      "atom": 319,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003947293631936022
+    },
+    {
+      "atom": 320,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0034837019878204423
+    },
+    {
+      "atom": 321,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0034040126815524374
+    },
+    {
+      "atom": 322,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 323,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 324,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0011838774003751773
+    },
+    {
+      "atom": 325,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0026744891995404974
+    },
+    {
+      "atom": 326,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 327,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 328,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001270577844030285
+    },
+    {
+      "atom": 329,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009249089059092608
+    },
+    {
+      "atom": 330,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0010265457640366016
+    },
+    {
+      "atom": 331,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010601141190019092
+    },
+    {
+      "atom": 332,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005486837049089477
+    },
+    {
+      "atom": 333,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003288957227947753
+    },
+    {
+      "atom": 334,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.017662116446196308
+    },
+    {
+      "atom": 335,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 336,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006695294855060485
+    },
+    {
+      "atom": 337,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 338,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 339,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00024186339113141386
+    },
+    {
+      "atom": 340,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 341,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0024779382299306985
+    },
+    {
+      "atom": 342,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00430891168095715
+    },
+    {
+      "atom": 343,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 344,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002632145547166065
+    },
+    {
+      "atom": 345,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00048005915031201774
+    },
+    {
+      "atom": 346,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003963188701267439
+    },
+    {
+      "atom": 347,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 348,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 349,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019062211272842244
+    },
+    {
+      "atom": 350,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 351,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 352,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006161931819397504
+    },
+    {
+      "atom": 353,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 354,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006387534591585586
+    },
+    {
+      "atom": 355,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002914935904454241
+    },
+    {
+      "atom": 356,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 357,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 358,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 359,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 360,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019475397585753118
+    },
+    {
+      "atom": 361,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001509694111598403
+    },
+    {
+      "atom": 362,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 363,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 364,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 365,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 366,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013035254812205466
+    },
+    {
+      "atom": 367,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004395039615469054
+    },
+    {
+      "atom": 368,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 369,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0020675089445962858
+    },
+    {
+      "atom": 370,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031848038891941766
+    },
+    {
+      "atom": 371,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0034955403042176147
+    },
+    {
+      "atom": 372,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 373,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 374,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 375,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 376,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 377,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011380585906911156
+    },
+    {
+      "atom": 378,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007708844772504442
+    },
+    {
+      "atom": 379,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0012224631589783375
+    },
+    {
+      "atom": 380,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007848165128956808
+    },
+    {
+      "atom": 381,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010009155278091653
+    },
+    {
+      "atom": 382,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 383,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01522011231252196
+    },
+    {
+      "atom": 384,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010275306177461196
+    },
+    {
+      "atom": 385,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 386,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012527118439567664
+    },
+    {
+      "atom": 387,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004319084611800195
+    },
+    {
+      "atom": 388,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009121734781103008
+    },
+    {
+      "atom": 389,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00010922947413138928
+    },
+    {
+      "atom": 390,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007267013737707773
+    },
+    {
+      "atom": 391,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007784935216840427
+    },
+    {
+      "atom": 392,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 393,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 394,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012378514526771855
+    },
+    {
+      "atom": 395,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 396,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 397,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006943507407192184
+    },
+    {
+      "atom": 398,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016749609112652664
+    },
+    {
+      "atom": 399,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009409907321648703
+    },
+    {
+      "atom": 400,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00574973436400672
+    },
+    {
+      "atom": 401,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0016345886069035753
+    },
+    {
+      "atom": 402,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 403,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 404,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 405,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 406,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 407,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 408,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 409,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 410,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0001287559687268569
+    },
+    {
+      "atom": 411,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0027658385727409307
+    },
+    {
+      "atom": 412,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 413,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00047046634707959
+    },
+    {
+      "atom": 414,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 415,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 416,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004396914545061081
+    },
+    {
+      "atom": 417,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 418,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 419,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 420,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008867351033412962
+    },
+    {
+      "atom": 421,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0029995136656775223
+    },
+    {
+      "atom": 422,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 423,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004843734625250562
+    },
+    {
+      "atom": 424,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007919614778927997
+    },
+    {
+      "atom": 425,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 426,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 427,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 428,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 429,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 430,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 431,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01137007058789341
+    },
+    {
+      "atom": 432,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005676317737401071
+    },
+    {
+      "atom": 433,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016361140756596226
+    },
+    {
+      "atom": 434,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008440197767822788
+    },
+    {
+      "atom": 435,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0038378068485995787
+    },
+    {
+      "atom": 436,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005466037899846343
+    },
+    {
+      "atom": 437,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007738492607128222
+    },
+    {
+      "atom": 438,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010736081206820014
+    },
+    {
+      "atom": 439,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 440,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 441,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003928124370057073
+    },
+    {
+      "atom": 442,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 443,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00034342713772606004
+    },
+    {
+      "atom": 444,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 445,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00228279702397316
+    },
+    {
+      "atom": 446,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00482232801831417
+    },
+    {
+      "atom": 447,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 448,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 449,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00505221975507153
+    },
+    {
+      "atom": 450,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 451,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002258953093467353
+    },
+    {
+      "atom": 452,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017145182579487717
+    },
+    {
+      "atom": 453,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 454,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 455,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004631120201036731
+    },
+    {
+      "atom": 456,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012943944333386526
+    },
+    {
+      "atom": 457,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01363581047341289
+    },
+    {
+      "atom": 458,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 459,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 460,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 461,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 462,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 463,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002520902416911275
+    },
+    {
+      "atom": 464,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 465,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01120069794388412
+    },
+    {
+      "atom": 466,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 467,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 468,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0024892006495496055
+    },
+    {
+      "atom": 469,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 470,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 471,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0069530175511538506
+    },
+    {
+      "atom": 472,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0030769110780084485
+    },
+    {
+      "atom": 473,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.018375071748015337
+    },
+    {
+      "atom": 474,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010802798805259917
+    },
+    {
+      "atom": 475,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003895567534963451
+    },
+    {
+      "atom": 476,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010480107989923715
+    },
+    {
+      "atom": 477,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008378581673624819
+    },
+    {
+      "atom": 478,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 479,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 480,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 481,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 482,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 483,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 484,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010948791885297515
+    },
+    {
+      "atom": 485,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005394971357402856
+    },
+    {
+      "atom": 486,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 487,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 488,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009653317036743436
+    },
+    {
+      "atom": 489,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 490,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 491,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 492,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 493,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00464814579831474
+    },
+    {
+      "atom": 494,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 495,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 496,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022202435122342656
+    },
+    {
+      "atom": 497,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 498,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0016382402375936245
+    },
+    {
+      "atom": 499,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 500,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009395451510603614
+    },
+    {
+      "atom": 501,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 502,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0066138669178574805
+    },
+    {
+      "atom": 503,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0004889488579533641
+    },
+    {
+      "atom": 504,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017830255815693974
+    },
+    {
+      "atom": 505,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 506,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006436984243258115
+    },
+    {
+      "atom": 507,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 508,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.014868137129720793
+    },
+    {
+      "atom": 509,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 510,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006090845427314084
+    },
+    {
+      "atom": 511,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003696115452842541
+    },
+    {
+      "atom": 512,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0038381423229734146
+    },
+    {
+      "atom": 513,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 514,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 515,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 516,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 517,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003528903837766162
+    },
+    {
+      "atom": 518,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00018341994373938242
+    },
+    {
+      "atom": 519,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 520,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 521,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003484025206011543
+    },
+    {
+      "atom": 522,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0038651086476231278
+    },
+    {
+      "atom": 523,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004445439440119658
+    },
+    {
+      "atom": 524,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005268597014305154
+    },
+    {
+      "atom": 525,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004938698592075852
+    },
+    {
+      "atom": 526,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0037108090668045435
+    },
+    {
+      "atom": 527,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 528,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006672320290151301
+    },
+    {
+      "atom": 529,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01533310975037172
+    },
+    {
+      "atom": 530,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 531,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0014060458260034547
+    },
+    {
+      "atom": 532,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 533,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00390660891029504
+    },
+    {
+      "atom": 534,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 535,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 536,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 537,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006394056459567921
+    },
+    {
+      "atom": 538,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006041081891401179
+    },
+    {
+      "atom": 539,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 540,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 541,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 542,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006564000045543805
+    },
+    {
+      "atom": 543,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0029711264215810385
+    },
+    {
+      "atom": 544,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 545,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 546,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 547,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 548,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 549,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002646766674864409
+    },
+    {
+      "atom": 550,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 551,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 552,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 553,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00784284349337927
+    },
+    {
+      "atom": 554,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007466293689675885
+    },
+    {
+      "atom": 555,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009417697239199274
+    },
+    {
+      "atom": 556,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 557,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 558,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 559,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01042149305892992
+    },
+    {
+      "atom": 560,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005242254637349397
+    },
+    {
+      "atom": 561,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006355097377543473
+    },
+    {
+      "atom": 562,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 563,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 564,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 565,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 566,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 567,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0035050935726208543
+    },
+    {
+      "atom": 568,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031937593223867466
+    },
+    {
+      "atom": 569,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0006822270089363869
+    },
+    {
+      "atom": 570,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 571,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 572,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 573,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006680174820885787
+    },
+    {
+      "atom": 574,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010808150770375002
+    },
+    {
+      "atom": 575,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 576,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005209011469129443
+    },
+    {
+      "atom": 577,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 578,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 579,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 580,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007429994588571187
+    },
+    {
+      "atom": 581,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0055280620200675035
+    },
+    {
+      "atom": 582,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 583,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 584,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013356043219106217
+    },
+    {
+      "atom": 585,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00974446193237477
+    },
+    {
+      "atom": 586,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 587,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 588,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 589,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01539092221529148
+    },
+    {
+      "atom": 590,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 591,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007640745083200562
+    },
+    {
+      "atom": 592,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002772950891215098
+    },
+    {
+      "atom": 593,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 594,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 595,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009640566498841485
+    },
+    {
+      "atom": 596,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005462198131766405
+    },
+    {
+      "atom": 597,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 598,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 599,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 600,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006018058453747699
+    },
+    {
+      "atom": 601,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010533641860832388
+    },
+    {
+      "atom": 602,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 603,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002385273303932678
+    },
+    {
+      "atom": 604,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003115404024102153
+    },
+    {
+      "atom": 605,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 606,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016858236776626123
+    },
+    {
+      "atom": 607,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 608,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 609,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 610,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001341872088401086
+    },
+    {
+      "atom": 611,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 612,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005612216533171344
+    },
+    {
+      "atom": 613,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0035770061073794324
+    },
+    {
+      "atom": 614,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 615,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 616,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0024623635218086193
+    },
+    {
+      "atom": 617,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 618,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 619,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 620,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0017627824172004036
+    },
+    {
+      "atom": 621,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 622,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016059161012802026
+    },
+    {
+      "atom": 623,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 624,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0033502866748138516
+    },
+    {
+      "atom": 625,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0024794341191523017
+    },
+    {
+      "atom": 626,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 627,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 628,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0032005318999068777
+    },
+    {
+      "atom": 629,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0003331006926121649
+    },
+    {
+      "atom": 630,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006975045149516301
+    },
+    {
+      "atom": 631,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004345740260231823
+    },
+    {
+      "atom": 632,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 633,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 634,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 635,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005265589853327812
+    },
+    {
+      "atom": 636,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 637,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 638,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 639,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 640,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008984591317694024
+    },
+    {
+      "atom": 641,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006170722951342578
+    },
+    {
+      "atom": 642,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 643,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006811144423060078
+    },
+    {
+      "atom": 644,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001877590126842632
+    },
+    {
+      "atom": 645,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012069164517324316
+    },
+    {
+      "atom": 646,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0031954581924307224
+    },
+    {
+      "atom": 647,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 5.150419460298039e-05
+    },
+    {
+      "atom": 648,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 649,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003271400484773368
+    },
+    {
+      "atom": 650,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0072048528522465904
+    },
+    {
+      "atom": 651,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 652,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 653,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 654,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 655,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 656,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005678887559630086
+    },
+    {
+      "atom": 657,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003804615945623313
+    },
+    {
+      "atom": 658,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008538708934732187
+    },
+    {
+      "atom": 659,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 660,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 661,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013069931742420993
+    },
+    {
+      "atom": 662,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.000397610464573539
+    },
+    {
+      "atom": 663,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 664,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 665,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0045972566129395265
+    },
+    {
+      "atom": 666,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005386620244602902
+    },
+    {
+      "atom": 667,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 668,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005658934667986504
+    },
+    {
+      "atom": 669,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 670,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019206188689904202
+    },
+    {
+      "atom": 671,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 672,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00017731044237745408
+    },
+    {
+      "atom": 673,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 674,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001478587402258924
+    },
+    {
+      "atom": 675,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013937056448634078
+    },
+    {
+      "atom": 676,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 677,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 678,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 679,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004640701284942539
+    },
+    {
+      "atom": 680,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.017496876505255443
+    },
+    {
+      "atom": 681,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 682,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 683,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002093947624807857
+    },
+    {
+      "atom": 684,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 685,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0015515000529360279
+    },
+    {
+      "atom": 686,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0011284208474193758
+    },
+    {
+      "atom": 687,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006400768490570696
+    },
+    {
+      "atom": 688,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 689,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0076719946993117905
+    },
+    {
+      "atom": 690,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 691,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001516509847692138
+    },
+    {
+      "atom": 692,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 693,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 694,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0016580513032842248
+    },
+    {
+      "atom": 695,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0021581195560127497
+    },
+    {
+      "atom": 696,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008799753038318148
+    },
+    {
+      "atom": 697,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 698,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 699,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 700,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 701,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 702,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001129338087756615
+    },
+    {
+      "atom": 703,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0035793612714176692
+    },
+    {
+      "atom": 704,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 705,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 706,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012417500494934286
+    },
+    {
+      "atom": 707,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 708,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005313114113588258
+    },
+    {
+      "atom": 709,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 710,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 711,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 712,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005515370185557478
+    },
+    {
+      "atom": 713,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0020269234243341927
+    },
+    {
+      "atom": 714,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 715,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 716,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 717,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012099326677729838
+    },
+    {
+      "atom": 718,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004945505612426571
+    },
+    {
+      "atom": 719,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00034744169797318314
+    },
+    {
+      "atom": 720,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008175578359328473
+    },
+    {
+      "atom": 721,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.000802465321586121
+    },
+    {
+      "atom": 722,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00419242990972335
+    },
+    {
+      "atom": 723,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 724,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.015855106199403002
+    },
+    {
+      "atom": 725,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 726,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013671963751674454
+    },
+    {
+      "atom": 727,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 728,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 729,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004845070298933107
+    },
+    {
+      "atom": 730,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01405823566228559
+    },
+    {
+      "atom": 731,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.016118807387504708
+    },
+    {
+      "atom": 732,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 733,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012307676994648409
+    },
+    {
+      "atom": 734,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 735,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 736,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 737,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 738,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 739,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009092743320268548
+    },
+    {
+      "atom": 740,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 741,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0029406718251587805
+    },
+    {
+      "atom": 742,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 743,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 744,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 745,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 746,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.02155773714985232
+    },
+    {
+      "atom": 747,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 748,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004211075133088826
+    },
+    {
+      "atom": 749,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 750,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00703488660446383
+    },
+    {
+      "atom": 751,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 752,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006391941540367707
+    },
+    {
+      "atom": 753,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 754,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005556773713761842
+    },
+    {
+      "atom": 755,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01838982057516514
+    },
+    {
+      "atom": 756,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011952484272205188
+    },
+    {
+      "atom": 757,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 758,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 759,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 760,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 761,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004911502061397899
+    },
+    {
+      "atom": 762,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0011503337033866856
+    },
+    {
+      "atom": 763,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003489364285466978
+    },
+    {
+      "atom": 764,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 765,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.000980897175858253
+    },
+    {
+      "atom": 766,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009295216758977043
+    },
+    {
+      "atom": 767,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 768,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 769,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 770,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0034627560699487248
+    },
+    {
+      "atom": 771,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009779690795590934
+    },
+    {
+      "atom": 772,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 773,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005919301345529204
+    },
+    {
+      "atom": 774,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008367316956227278
+    },
+    {
+      "atom": 775,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 776,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 777,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 778,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002895791215427712
+    },
+    {
+      "atom": 779,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003676199842089778
+    },
+    {
+      "atom": 780,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 781,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002635315061871424
+    },
+    {
+      "atom": 782,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 783,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006828518385239235
+    },
+    {
+      "atom": 784,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006686289672303447
+    },
+    {
+      "atom": 785,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 786,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006617034041673353
+    },
+    {
+      "atom": 787,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 788,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 789,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 790,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 791,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005448671670733374
+    },
+    {
+      "atom": 792,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009174623202478083
+    },
+    {
+      "atom": 793,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 794,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0015254678745018069
+    },
+    {
+      "atom": 795,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 796,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002826040376133765
+    },
+    {
+      "atom": 797,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009029677936314373
+    },
+    {
+      "atom": 798,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002214586516354533
+    },
+    {
+      "atom": 799,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 800,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0070345847515733695
+    },
+    {
+      "atom": 801,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 802,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007977283541429792
+    },
+    {
+      "atom": 803,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 804,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 805,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 806,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.013395738592727469
+    },
+    {
+      "atom": 807,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 808,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003897129263438215
+    },
+    {
+      "atom": 809,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 810,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00120926477072536
+    },
+    {
+      "atom": 811,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 812,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 813,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005098449816147044
+    },
+    {
+      "atom": 814,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 815,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022050910904116705
+    },
+    {
+      "atom": 816,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 817,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 818,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 819,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022431395560658096
+    },
+    {
+      "atom": 820,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 821,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 822,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 823,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006298102465678079
+    },
+    {
+      "atom": 824,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 825,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 826,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 827,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 828,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008241079004122742
+    },
+    {
+      "atom": 829,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0038912918080744596
+    },
+    {
+      "atom": 830,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 831,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0033794222627270276
+    },
+    {
+      "atom": 832,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007288813454175314
+    },
+    {
+      "atom": 833,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007544369458274636
+    },
+    {
+      "atom": 834,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00840967162110795
+    },
+    {
+      "atom": 835,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0028814289784488967
+    },
+    {
+      "atom": 836,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 837,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009384691017913394
+    },
+    {
+      "atom": 838,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 839,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.015032084547992763
+    },
+    {
+      "atom": 840,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003655871951041334
+    },
+    {
+      "atom": 841,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 842,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00617795589692216
+    },
+    {
+      "atom": 843,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 844,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007277277004807514
+    },
+    {
+      "atom": 845,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 846,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006995409568300248
+    },
+    {
+      "atom": 847,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00898526402434463
+    },
+    {
+      "atom": 848,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004547990765888965
+    },
+    {
+      "atom": 849,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007163171041917771
+    },
+    {
+      "atom": 850,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 851,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010858045806006578
+    },
+    {
+      "atom": 852,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 853,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 854,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007000496283177338
+    },
+    {
+      "atom": 855,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 856,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 857,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007060605883715265
+    },
+    {
+      "atom": 858,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 859,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 860,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008991091847056598
+    },
+    {
+      "atom": 861,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 862,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 863,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004239021765285678
+    },
+    {
+      "atom": 864,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 865,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 866,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01013295000835246
+    },
+    {
+      "atom": 867,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010565793365839404
+    },
+    {
+      "atom": 868,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0010038170859869577
+    },
+    {
+      "atom": 869,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007305291192152952
+    },
+    {
+      "atom": 870,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 871,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.015272895370522566
+    },
+    {
+      "atom": 872,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 873,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002238462153026699
+    },
+    {
+      "atom": 874,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 875,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003815677330013534
+    },
+    {
+      "atom": 876,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006634300588691522
+    },
+    {
+      "atom": 877,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0057687154338332824
+    },
+    {
+      "atom": 878,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 879,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 880,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007001691934993337
+    },
+    {
+      "atom": 881,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002776658806376231
+    },
+    {
+      "atom": 882,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 883,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 884,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 885,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.014246311744931628
+    },
+    {
+      "atom": 886,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 887,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002086039162456199
+    },
+    {
+      "atom": 888,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0043430074776702465
+    },
+    {
+      "atom": 889,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 890,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0007403226857323197
+    },
+    {
+      "atom": 891,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00663179646725065
+    },
+    {
+      "atom": 892,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00912386583627045
+    },
+    {
+      "atom": 893,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 894,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0023009559252489264
+    },
+    {
+      "atom": 895,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 896,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007295734841523238
+    },
+    {
+      "atom": 897,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001000454642790638
+    },
+    {
+      "atom": 898,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 899,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0052350221275314635
+    },
+    {
+      "atom": 900,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007519349485572979
+    },
+    {
+      "atom": 901,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 902,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 903,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001827648417372485
+    },
+    {
+      "atom": 904,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003275395011654192
+    },
+    {
+      "atom": 905,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001366173974177931
+    },
+    {
+      "atom": 906,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 907,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 908,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 909,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0030047300923543574
+    },
+    {
+      "atom": 910,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007276936158066238
+    },
+    {
+      "atom": 911,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 912,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 913,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0054825690374882274
+    },
+    {
+      "atom": 914,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 915,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022870857169352554
+    },
+    {
+      "atom": 916,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0012931332961514386
+    },
+    {
+      "atom": 917,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 918,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0025038730011477384
+    },
+    {
+      "atom": 919,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 920,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011355606805755203
+    },
+    {
+      "atom": 921,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0014597455676250704
+    },
+    {
+      "atom": 922,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 923,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.024048348696077415
+    },
+    {
+      "atom": 924,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012740213638112508
+    },
+    {
+      "atom": 925,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 926,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004758107748769724
+    },
+    {
+      "atom": 927,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009764413022239404
+    },
+    {
+      "atom": 928,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0020373333968528584
+    },
+    {
+      "atom": 929,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 930,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 931,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 932,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 933,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.014134421189073487
+    },
+    {
+      "atom": 934,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 935,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 936,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0014294453002459129
+    },
+    {
+      "atom": 937,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001601556538304072
+    },
+    {
+      "atom": 938,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 939,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 940,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 941,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 942,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001003068820651709
+    },
+    {
+      "atom": 943,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0074850867956648415
+    },
+    {
+      "atom": 944,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.006296669660784904
+    },
+    {
+      "atom": 945,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003980425268480081
+    },
+    {
+      "atom": 946,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002164935350123409
+    },
+    {
+      "atom": 947,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 948,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 949,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 950,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 951,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01017455751728047
+    },
+    {
+      "atom": 952,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 953,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 954,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008389560410698493
+    },
+    {
+      "atom": 955,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 956,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002469062731953686
+    },
+    {
+      "atom": 957,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 958,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003760839905050384
+    },
+    {
+      "atom": 959,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0019900771593102107
+    },
+    {
+      "atom": 960,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003103809312081207
+    },
+    {
+      "atom": 961,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 962,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 963,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005668069103259787
+    },
+    {
+      "atom": 964,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 965,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003584749910010343
+    },
+    {
+      "atom": 966,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0018467945470239666
+    },
+    {
+      "atom": 967,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 968,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.01622662854001855
+    },
+    {
+      "atom": 969,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008680512834998488
+    },
+    {
+      "atom": 970,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 971,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.009256164875821371
+    },
+    {
+      "atom": 972,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0001601714389658504
+    },
+    {
+      "atom": 973,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.012456284173036458
+    },
+    {
+      "atom": 974,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011371111830665415
+    },
+    {
+      "atom": 975,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 976,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005931280488034929
+    },
+    {
+      "atom": 977,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.003632639000159532
+    },
+    {
+      "atom": 978,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005558766977298291
+    },
+    {
+      "atom": 979,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 980,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0024472519945248905
+    },
+    {
+      "atom": 981,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 982,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 983,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0064354457183739555
+    },
+    {
+      "atom": 984,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 985,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.002811897110416961
+    },
+    {
+      "atom": 986,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 987,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0034539991429636263
+    },
+    {
+      "atom": 988,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 989,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0043858444794457885
+    },
+    {
+      "atom": 990,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0014311346768345334
+    },
+    {
+      "atom": 991,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010231159878292484
+    },
+    {
+      "atom": 992,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 993,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.008156162956788338
+    },
+    {
+      "atom": 994,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 995,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 996,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 997,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 998,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0026079184328904326
+    },
+    {
+      "atom": 999,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00675575710581211
+    },
+    {
+      "atom": 1000,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1001,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1002,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.004346961191440624
+    },
+    {
+      "atom": 1003,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.00779437700782859
+    },
+    {
+      "atom": 1004,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005701870158551836
+    },
+    {
+      "atom": 1005,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1006,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1007,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0005547086342303498
+    },
+    {
+      "atom": 1008,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0030795929349380913
+    },
+    {
+      "atom": 1009,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0022709671196794456
+    },
+    {
+      "atom": 1010,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001607838013831131
+    },
+    {
+      "atom": 1011,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.007529075536229168
+    },
+    {
+      "atom": 1012,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008562850983557801
+    },
+    {
+      "atom": 1013,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0008171073639993143
+    },
+    {
+      "atom": 1014,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.010837066541498963
+    },
+    {
+      "atom": 1015,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1016,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.011017671256261963
+    },
+    {
+      "atom": 1017,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.001184381750061192
+    },
+    {
+      "atom": 1018,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1019,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1020,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1021,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.005643511106367294
+    },
+    {
+      "atom": 1022,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    },
+    {
+      "atom": 1023,
+      "fisher": 0.0,
+      "f_anova": NaN,
+      "mutual_info": 0.0
+    }
+  ]
+}

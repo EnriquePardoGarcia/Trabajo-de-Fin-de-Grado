@@ -1,0 +1,46 @@
+{
+  "classifier": "KNN",
+  "n_neighbors": 5,
+  "accuracy": 0.6155602054403653,
+  "auc": 0.6481495222874003,
+  "confusion_matrix": [
+    [
+      1431,
+      921
+    ],
+    [
+      1100,
+      1805
+    ]
+  ],
+  "classification_report": {
+    "mitotic_figure": {
+      "precision": 0.565389174239431,
+      "recall": 0.6084183673469388,
+      "f1-score": 0.5861150931804219,
+      "support": 2352.0
+    },
+    "not_mitotic_figure": {
+      "precision": 0.6621423330887748,
+      "recall": 0.621342512908778,
+      "f1-score": 0.6410939442372581,
+      "support": 2905.0
+    },
+    "accuracy": 0.6155602054403653,
+    "macro avg": {
+      "precision": 0.6137657536641029,
+      "recall": 0.6148804401278584,
+      "f1-score": 0.6136045187088399,
+      "support": 5257.0
+    },
+    "weighted avg": {
+      "precision": 0.6188546348552468,
+      "recall": 0.6155602054403653,
+      "f1-score": 0.6164962159348654,
+      "support": 5257.0
+    }
+  },
+  "config": "mae_aug",
+  "epoch": 1563,
+  "checkpoint": "/home/enrique.pardo.garcia/MIDOGpp/scriptsv2/experiments/1_checkpoints/mae/dim_1024/best/best.pt"
+}
